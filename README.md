@@ -4,7 +4,7 @@ This is a 2 axis robot that is controlled by the position of your hand that is c
 [example use video](https://youtu.be/Lk0FQm9ZR9w)
 Robot is controlled by an arduino uno and a computer with a camera.  
   
-![Image of the robot](/hand-controlled-robot/media/side%20view.jpg)
+![Image of the robot](/media/side%20view.jpg)
   
 ---
   
@@ -22,7 +22,8 @@ Robot is controlled by an arduino uno and a computer with a camera.
 ### 3d printing
   
 [heres a link to the 3d models](https://www.thingiverse.com/thing:2838859)
-I printed the parts with a 0.2mm layer height and 20% infill.
+I printed the parts with a 0.2mm layer height and 20% infill.  
+>there is no nead for the third motor in the botom because there is no use for the third axis.
   
 ### instructions
 
@@ -34,5 +35,5 @@ I printed the parts with a 0.2mm layer height and 20% infill.
   
 ---
 scematics and sutch:
-![Image of circuit](/hand-controlled-robot/media/circuit.png)
-![Image of robot up](/hand-controlled-robot/media/up%20view.jpg)
+![Image of circuit](/media/circuit.png)
+![Image of robot up](/media/up%20view.jpg)
