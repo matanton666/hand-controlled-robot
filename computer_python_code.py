@@ -1,3 +1,9 @@
+""" 
+19/10/2022
+created by matanton
+"""
+
+
 import cv2
 from mediapipe.python.solutions import hands as mpHands
 from mediapipe.python.solutions import drawing_utils as mpDraw
