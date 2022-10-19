@@ -1,8 +1,9 @@
 # hand-controlled-robot
 
 This is a 2 axis robot that is controlled by the position of your hand that is captured by a camera.  
-[example use video](https://youtu.be/Lk0FQm9ZR9w)
-Robot is controlled by an arduino uno and a computer with a camera.  
+here is an 
+[example use video](https://youtu.be/Lk0FQm9ZR9w).  
+The robot is controlled by an arduino uno and a computer with a camera.  
   
 ![Image of the robot](/media/side%20view.jpg)
   
