@@ -34,6 +34,11 @@ I printed the parts with a 0.2mm layer height and 20% infill.
 4. run the arduino then the python code, and you should be good to go.
   
 ---
-scematics and sutch:
+## scematics and sutch:
+#### connection scematics:
+connect the 2 motors to the drivers and connect the power supply to the drivers.
+connect the drivers and the servo to the arduino.
+beware of the pins you put the motors and servo on.  
 ![Image of circuit](/media/circuit.png)
+  
 ![Image of robot up](/media/up%20view.jpg)
